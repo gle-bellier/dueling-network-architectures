@@ -1,0 +1,15 @@
+numpy
+pandas
+
+[dev]
+pre-commit
+pytest
+black
+isort
+
+[docs]
+sphinx
+
+[notebook]
+jupyter
+ipykernel

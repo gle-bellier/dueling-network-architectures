@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: dueling-archs
+Version: 0.1.0
+Summary: Implementation of Dueling Network Architectures for Deep RL
+Home-page: https://github.com/gle-bellier/dueling-network-architectures
+Author: LeBellier Georges
+Author-email: georges.lebellier@gmail.com
+Maintainer: LeBellier Georges
+Maintainer-email: georges.lebellier@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/gle-bellier/dueling-network-architectures
+Project-URL: Documentation, https://github.com/gle-bellier/dueling-network-architectures
+Project-URL: Source, https://github.com/gle-bellier/dueling-network-architectures
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Natural Language :: French
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Deep Learning
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: notebook
+Provides-Extra: docs
+Provides-Extra: dev
+
+# Dueling Network Architectures for Reinforcement Learning
+## Project structure
+
+All models and their blocks are located in the `src/dueling_archs/models` folder and the corresponding losses in the `src/dueling_archs/losses`.
+
+Run tests with *pytest* from `test/`. 
+## Installation
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/gle-bellier/dueling-network-architectures.git
+
+```
+
+2. Install requirements:
+
+```bash
+cd expressive-perf
+pip install -r requirements.txt
+
+```
+

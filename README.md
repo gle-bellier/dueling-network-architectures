@@ -20,3 +20,8 @@ cd expressive-perf
 pip install -r requirements.txt
 
 ```
+
+3. Install package locally:
+```bash
+pip install -e .
+```

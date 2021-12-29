@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/dueling_arch/__init__.py
+src/dueling_archs.egg-info/PKG-INFO
+src/dueling_archs.egg-info/SOURCES.txt
+src/dueling_archs.egg-info/dependency_links.txt
+src/dueling_archs.egg-info/requires.txt
+src/dueling_archs.egg-info/top_level.txt
